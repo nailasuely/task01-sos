@@ -1,0 +1,5 @@
+[wokwi]
+version = 1
+firmware = "build/SoS-Task.uf2"
+elf = "build/SoS-Task.elf"
+diagram = "diagram.json"  
